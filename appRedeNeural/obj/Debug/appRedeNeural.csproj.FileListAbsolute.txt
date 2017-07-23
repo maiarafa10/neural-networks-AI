@@ -1,0 +1,9 @@
+D:\appRedeNeural\appRedeNeural\bin\Debug\appRedeNeural.exe.config
+D:\appRedeNeural\appRedeNeural\bin\Debug\appRedeNeural.exe
+D:\appRedeNeural\appRedeNeural\bin\Debug\appRedeNeural.pdb
+D:\appRedeNeural\appRedeNeural\obj\Debug\appRedeNeural.csprojResolveAssemblyReference.cache
+D:\appRedeNeural\appRedeNeural\obj\Debug\appRedeNeural.Form1.resources
+D:\appRedeNeural\appRedeNeural\obj\Debug\appRedeNeural.Properties.Resources.resources
+D:\appRedeNeural\appRedeNeural\obj\Debug\appRedeNeural.csproj.GenerateResource.Cache
+D:\appRedeNeural\appRedeNeural\obj\Debug\appRedeNeural.exe
+D:\appRedeNeural\appRedeNeural\obj\Debug\appRedeNeural.pdb
